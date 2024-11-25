@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Sumit Pathak
 
-[![GitHub](https://img.shields.io/github/followers/sk-pathak?label=Follow&style=social)](https://github.com/sk-pathak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-SumitPathak-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumit-pathak-bb0a5314b/)
+[![GitHub](https://img.shields.io/github/followers/sk-pathak?label=Follow&style=social)](https://github.com/sk-pathak)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SumitPathak-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumit-pathak-bb0a5314b/)
 
 ## 🚀 About Me
 
