@@ -1,17 +1,21 @@
-# 👋 Hi, I'm Sumit Pathak
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sk-pathak&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="SkPathak" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello!+I'm+Sumit+" />
+</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
+</p>
 
-[![GitHub](https://img.shields.io/github/followers/sk-pathak?label=Follow&style=social)](https://github.com/sk-pathak)
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SumitPathak-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumit-pathak-bb0a5314b/)
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
-## 🚀 About Me
+I am a 3rd yr student @ IIT Bhilai with experience in **Java, Spring Boot & Golang**. Lately, I’ve been diving deep into **DevOps** practices, managing infrastructure with tools like **Kubernetes**, automating CI/CD pipelines, and configuring web servers with **Nginx**. I am also exploring **distributed systems** and experimenting with **Kafka**. Also a huge **linux enthusiast**
+<br/>
+<br/>
+<br/>
 
-3rd yr student @ IIT Bhilai with experience in Java, Spring Boot & Golang. Lately, I’ve been diving deep into DevOps practices, managing infrastructure with tools like Kubernetes, automating CI/CD pipelines, and configuring web servers with Nginx. I am also exploring distributed systems and experimenting with Kafka.
-
-- 🔭 **Currently working on:** [WorkSync](https://github.com/sk-pathak/workSync-backend)
-- 🌱 Currently learning: **Kafka**
-
-## 🛠️ Tech Stack
+---
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -50,18 +54,24 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
 ## 📈 GitHub Stats
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sk-pathak&label=Profile%20views&color=blue&abbreviated=true&style=flat" alt="ask-03" /> </p>
-
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sk-pathak&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-pathak&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-pathak&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
-## 🏆 GitHub Trophies
+<div align=center>
+  
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sk-pathak&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sk-pathak&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk-pathak&theme=tokyonight)
+
+</div>
+
+<!--## 🏆 GitHub Trophies
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=sk-pathak&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=5" alt="skp" />
 
-<!-- ## 🧑‍💻 Projects
+ ## 🧑‍💻 Projects
 
 - **[Project Name 1](https://github.com/sk-pathak/):** Brief description of what this project does.
 - **[Project Name 2](https://github.com/sk-pathak/):** Brief description of what this project does.
@@ -69,5 +79,18 @@
 
 ## 📫 Get in Touch
 
-- Email: [sumitpathak2002@gmail.com](mailto:sumitpathak2002@gmail.com)
-- LinkedIn: [Sumit Pathak](https://linkedin.com/in/sumit-pathak-bb0a5314b/)
+- [![Email](https://img.shields.io/badge/Email-sumitpathak2002@gmail.com-red?style=flat&logo=gmail)](mailto:sumitpathak2002@gmail.com)  
+- [![GitHub](https://img.shields.io/github/followers/sk-pathak?label=Follow&style=social)](https://github.com/sk-pathak)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-SumitPathak-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumit-pathak-bb0a5314b/)  
+- [![Discord](https://img.shields.io/badge/Discord-capable_average-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/734009438133944320)
+
+
+
+<h3 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+:\))](https://git.io/typing-svg)
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
+</p>
