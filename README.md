@@ -78,11 +78,16 @@ I am a 3rd yr student @ IIT Bhilai with experience in **Java, Spring Boot & Gola
 -->
 
 ## 📫 Get in Touch
-
+<!--
 - [![Email](https://img.shields.io/badge/Email-sumitpathak2002@gmail.com-red?style=flat&logo=gmail)](mailto:sumitpathak2002@gmail.com)  
 - [![GitHub](https://img.shields.io/github/followers/sk-pathak?label=Follow&style=social)](https://github.com/sk-pathak)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-SumitPathak-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumit-pathak-bb0a5314b/)  
-- [![Discord](https://img.shields.io/badge/Discord-capable_average-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/734009438133944320)
+- [![Discord](https://img.shields.io/badge/Discord-capable_average-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/734009438133944320) -->
+<p align=center>
+  <a href="https://www.linkedin.com/in/sumit-pathak-bb0a5314b/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2284952.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://discord.com/users/734009438133944320" target="blank"><img align="center" src="https://cdn.simpleicons.org/discord" alt="discord" height="50" width="50"/></a>
+  <a href="mailto:sumitpathak2002@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="50" width="50" /></a>
+</p>
 
 
 
@@ -92,5 +97,13 @@ I am a 3rd yr student @ IIT Bhilai with experience in **Java, Spring Boot & Gola
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
+<!--   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" /> -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
+
+<details>
+  <summary></summary>
+  
+  [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Sumit2002&show_user=footer&footer_style=compact_stats&bg_color=000000&width=600)](https://www.last.fm/user/Sumit2002)
+</details>
