@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
-I am a 3rd yr student @ IIT Bhilai with experience in **Java, Spring Boot & Golang**. Lately, I’ve been diving deep into **DevOps** practices, managing infrastructure with tools like **Kubernetes**, automating CI/CD pipelines, and configuring web servers with **Nginx**. I am also exploring **distributed systems** and experimenting with **Kafka**. Also a huge **linux enthusiast**
+4th yr student @ IIT Bhilai with experience in **Backend systems in Java, C++ & Golang**. Lately, I’ve been diving deep into more low-level engineering (**distributed systems, databases & caches, etc**). Being a huge **linux enthusiast**, I am learning more about kernel development as well.
 <br/>
 <br/>
 <br/>
