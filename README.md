@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sk-pathak&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="SkPathak" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=capable-average&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="SkPathak" /> </p>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello!+I'm+Sumit+" />
 </h3>
@@ -55,32 +55,32 @@
 
 ## 📈 GitHub Stats
 <!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sk-pathak&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-pathak&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-pathak&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=capable-average&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=capable-average&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capable-average&layout=compact&theme=radical" alt="Top Languages" />
 </p> -->
 
 <div align=center>
   
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sk-pathak&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sk-pathak&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk-pathak&theme=tokyonight)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=capable-average&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=capable-average&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=capable-average&theme=tokyonight)
 
 </div>
 
 <!--## 🏆 GitHub Trophies
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=sk-pathak&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=5" alt="skp" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=capable-average&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=5" alt="skp" />
 
  ## 🧑‍💻 Projects
 
-- **[Project Name 1](https://github.com/sk-pathak/):** Brief description of what this project does.
-- **[Project Name 2](https://github.com/sk-pathak/):** Brief description of what this project does.
+- **[Project Name 1](https://github.com/capable-average/):** Brief description of what this project does.
+- **[Project Name 2](https://github.com/capable-average/):** Brief description of what this project does.
 -->
 
 ## 📫 Get in Touch
 <!--
 - [![Email](https://img.shields.io/badge/Email-sumitpathak2002@gmail.com-red?style=flat&logo=gmail)](mailto:sumitpathak2002@gmail.com)  
-- [![GitHub](https://img.shields.io/github/followers/sk-pathak?label=Follow&style=social)](https://github.com/sk-pathak)  
+- [![GitHub](https://img.shields.io/github/followers/capable-average?label=Follow&style=social)](https://github.com/capable-average)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-SumitPathak-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumit-pathak-bb0a5314b/)  
 - [![Discord](https://img.shields.io/badge/Discord-capable_average-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/734009438133944320) -->
 <p align=center>
