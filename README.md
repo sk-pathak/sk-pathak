@@ -84,7 +84,7 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-SumitPathak-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumit-pathak-bb0a5314b/)  
 - [![Discord](https://img.shields.io/badge/Discord-capable_average-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/734009438133944320) -->
 <p align=center>
-  <a href="https://www.linkedin.com/in/sumit-pathak-bb0a5314b/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2284952.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/capable-average/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2284952.png" alt="linkedin" height="50" width="50" /></a>
   <a href="https://discord.com/users/734009438133944320" target="blank"><img align="center" src="https://cdn.simpleicons.org/discord" alt="discord" height="50" width="50"/></a>
   <a href="mailto:sumitpathak2002@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="50" width="50" /></a>
 </p>
